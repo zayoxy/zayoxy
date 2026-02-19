@@ -4,11 +4,11 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Github stats" src="./profile/stats.svg"/>
     </a>
+</p>
+
+<p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img alt="Top languages" src="./profile/top-langs.svg"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Pinned" src="./profile/pinned.svg"/>
     </a>
 </p>
 

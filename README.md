@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Github stats" src="./profile/stats.svg"/>
+        <img alt="Github stats" src="https://github-stats-extended.vercel.app/api?username=zayoxy&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=tokyonight"/>
     </a>
 </p>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Top languages" src="./profile/top-langs.svg"/>
+        <img alt="Top languages" src="https://github-stats-extended.vercel.app/api/top-langs?username=zayoxy&layout=donut&theme=tokyonight"/>
     </a>
 </p>
 
